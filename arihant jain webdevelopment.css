@@ -1,0 +1,51 @@
+﻿body
+{
+background-image:
+url("bestbg(1)");
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+}
+{
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+h1{
+    font-family: 'Amatic+SC:700', google-fonts;
+}
+
+.container{
+	width:70%;
+	min-width: 300px;
+	border:10x solid grey;
+	margin: auto;
+	padding:30px;
+}
+
+
+.date{
+    
+    letter-spacing: 2px;
+    padding: 2px;
+    font-family: 'Pacifico', google-fonts;
+}
+
+p{
+    font-family: 'Princess+Sofia', google-fonts;
+}
+
+.first-para{
+    border-left: 5px solid grey;
+    text-align: justify;
+    padding: 0px 0px 0px 10px;
+}
+
+.read-more-button{
+    color: purple;
+    cursor: alias;
+}
+
+.read-more{
+    display: none;
+}
