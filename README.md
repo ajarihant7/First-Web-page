@@ -1,2 +1,2 @@
 # First-Web-page
-1st sessions..
+Web page sessions conducted by AEC Codig Club.
